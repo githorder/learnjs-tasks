@@ -1,0 +1,1 @@
+// when we literally assign a value to a variable, we can use uppercase letters, birthday is an example, or some date in history than cannot be changed. Age is a different case because it increments every year and evaluated using some code.
